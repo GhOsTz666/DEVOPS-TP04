@@ -1,0 +1,20 @@
+http://myapp-domain.local/ping
+
+"host": "myapp-domain. local",
+"x-request-id": "gb16e5a08260722eb862351138b3f011"
+"x-real-ip": 192.168.49.11
+"y-forwarded-for":
+192.168.49.11
+"x-forwarded-host".
+"myapp-domain, local"
+"x-forwarded-Dort":
+"x-forwarded-proto":
+"x-forwarded-scheme":
+"http"
+""http"
+"x-scheme". "htto"
+"upgrade- insecure-requests": "",
+"'user-agent": "Mozilla/5.0 (X11; Linux X86_64) ApplewebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36% 63
+"accept": "text/html, application/xhtml+xmI, application/xml;q=0.9, image/avif, image /webp, image/apng, +/;q-0.8, application/sdoned@exchange:v=b3:0=0.74
+"accept-encoding"; "gzip, deflate",
+"accept-language": "fr-FR, friq-0.9, en-US;q-0.8, en; q-0. 7"
